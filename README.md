@@ -1,7 +1,7 @@
 # Differential expression analysis
 
-This data set is part of the [Polistes dominula genome project][pdomproj], and describes an analysis to identify caste-related differential expression in *P. dominula*, as described in (Standage *et al.*, manuscript in preparation).
-Included in this data set is FILLMEIN.
+This data set is part of the [Polistes dominula genome project][pdomproj], and describes an analysis to identify caste-related differential expression in *P. dominula*, as described in ([Standage *et al.*, *Molecular Ecology*, 2016][ref]).
+Included in this data set are scripts for collecting raw sequence data from public archives, genomic sequences used for the analysis, and a description of the analysis protocol.
 
 ## Synopsis
 
@@ -242,6 +242,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 [pdomproj]: https://github.com/PdomGenomeProject
+[ref]: http://dx.doi.org/10.1111/mec.13578
 [RSEM]: http://deweylab.biostat.wisc.edu/rsem
 [1.2.7]: https://github.com/bli25wisc/RSEM/archive/v1.2.7.tar.gz
 [Bowtie]: http://bowtie-bio.sourceforge.net/index.shtml
